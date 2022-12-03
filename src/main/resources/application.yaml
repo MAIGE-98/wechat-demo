@@ -1,10 +1,6 @@
-server:
-  servlet:
-    context-path: /wechat/demo
-  port: 8081
-
 wechat:
-  config:o5v5I63Y5xLurGceOC-v370MnY5U
+  config:
+  token: o5v5I63Y5xLurGceOC-v370MnY5U
     #配置一个文字的模板ID
     singleTemplateId:	CokuKUlYCaeUVX85yUPtzM9RYyfl36uEQcex9kdquUM
     template:
