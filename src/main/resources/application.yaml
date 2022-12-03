@@ -4,9 +4,9 @@ server:
   port: 8081
 
 wechat:
-  config:
+  config:o5v5I63Y5xLurGceOC-v370MnY5U
     #配置一个文字的模板ID
-    singleTemplateId:TT宝贝
+    singleTemplateId:	CokuKUlYCaeUVX85yUPtzM9RYyfl36uEQcex9kdquUM
     template:
       #早安模板
       morningTemplate:
